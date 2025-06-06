@@ -15,20 +15,6 @@ export default function Home() {
                         Short intro/message
                     </p>
                 </div>
-                <div className="flex justify-between items-center border-2 h-70 mt-15 mr-10 text-center w-full">
-                    <div className="intro bg-stone-300 flex-1 flex-col justify-center items-center border-r-1 h-69">
-                        <h2 className="mt-6">Software Engineering</h2>
-                        <p className="mt-10">description</p>
-                    </div>
-                    <div className="intro bg-stone-300 flex-1 flex-col justify-center items-center border-r-1 h-69">
-                        <h2 className="mt-6">Data Science</h2>
-                        <p className="mt-10">description</p>
-                    </div>
-                    <div className="intro bg-stone-300 flex-1 flex-col justify-center items-center h-69">
-                        <h2 className="mt-6">Robotics</h2>
-                        <p className="mt-10">description</p>
-                    </div>
-                </div>
             </div>
         </div>
     );

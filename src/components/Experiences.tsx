@@ -8,7 +8,7 @@ export default function Experiences() {
                     </div>
                     <div className="flex">
                         <div className="h-60 w-full">
-                            <div className="border-2 w-70 h-60">
+                            <div className="project">
                             </div>
                         </div>
                     </div>
@@ -21,7 +21,7 @@ export default function Experiences() {
                     </div>
                     <div className="flex">
                         <div className="h-60 w-full">
-                            <div className="border-2 w-70 h-60">
+                            <div className="project">
                             </div>
                         </div>
                     </div>
