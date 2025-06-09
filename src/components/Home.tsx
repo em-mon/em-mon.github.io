@@ -11,8 +11,15 @@ export default function Home() {
                     <h1>
                         Hello!
                     </h1>
-                    <p className="pl-10 pt-5">
-                        Short intro/message
+                    <p>
+                        My name is Emma and I'm a rising junior in college studying Computer Science. 
+                        My career interests span across software development, data science, and robotics, 
+                        and I actively pursue these interests through coursework, extracurricular projects, 
+                        and personal work. When I'm not on my computer, I love practicing for dance performances 
+                        with Rice Kasama, experimenting with and listening to music, and playing volleyball with friends.
+                    </p>
+                    <p> 
+                        I'm always looking for new ways to learn and grow, so feel free to reach out! 
                     </p>
                 </div>
             </div>

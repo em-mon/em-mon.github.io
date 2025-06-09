@@ -17,6 +17,16 @@
   scroll-behavior: smooth;
 }
 
+.icons {
+  margin-top: 10px;
+  margin-left: 43%;
+}
+
+.bubbles {
+  background-color: #474444;
+  border-radius: 0.45 rem;
+}
+
 #header-links a {
   padding-left: 1rem;  
   padding-right: 1rem;
