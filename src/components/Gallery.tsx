@@ -2,7 +2,7 @@ export default function Gallery() {
     return (
         <div className="flex-col flex">
             <div className="flex flex-col items-center mt-5">
-            <div id="me" className="bg-[position:50%_70%] bg-[url('./media/profile_picture.jpeg')] bg-cover border-6 w-80 h-100"></div>
+            <div id="me" className="rounded-md bg-[position:50%_70%] bg-[url('public/media/profile_picture.jpeg')] bg-cover border-6 w-80 h-100"></div>
                 <p className="mt-4"></p>
             </div>
             <div className="mt-4 flex justify-center items-center mb-5">

@@ -11,15 +11,15 @@ export default function Home() {
                     <h1>
                         Hello!
                     </h1>
-                    <p>
-                        My name is Emma and I'm a rising junior in college studying Computer Science. 
-                        My career interests span across software development, data science, and robotics, 
+                    <p className="bg-stone-300 p-5 !text-stone-500 rounded-md">
+                        My name is Emma and I'm a rising junior in college studying  <span className="text-stone-600 font-bold">Computer Science</span>. 
+                        My career interests span across <span className="text-stone-600 font-bold">software development, data science, and robotics</span>, 
                         and I actively pursue these interests through coursework, extracurricular projects, 
                         and personal work. When I'm not on my computer, I love practicing for dance performances 
                         with Rice Kasama, experimenting with and listening to music, and playing volleyball with friends.
                     </p>
-                    <p> 
-                        I'm always looking for new ways to learn and grow, so feel free to reach out! 
+                    <p className="mt-8 bg-stone-700 p-5 rounded-full"> 
+                        I'm always looking for new ways to learn and grow, so feel free to reach out!!
                     </p>
                 </div>
             </div>

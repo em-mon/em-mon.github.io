@@ -9,6 +9,11 @@ export default function Experiences() {
                     <div className="flex">
                         <div className="h-60 w-full">
                             <div className="project">
+                                <div className="flex border-b-1 border-stone-700 pb-1">
+                                    <h3 className="mt-1 font-bold">2025 eBay ML Contest</h3>
+                                    <a className="ml-6 bg-[url('./media/github_logo.png')] bg-cover"></a>
+                                </div>
+                                <p>Me and one other are developing a NER model to extract key product details from German marketplace listings for motor vehicle parts. This project sharpens my NLP skills, explores international e-commerce data, and tackles a real-world machine learning challenge with industry relevance.</p>
                             </div>
                         </div>
                     </div>
